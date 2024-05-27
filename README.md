@@ -10,10 +10,10 @@ In this project can see the actual TPS for if 120000 users can give load for 12 
   4. Then start in JMeter
 
 ## Expected TPS for Load Test: 
-![Screenshot 2024-02-07 100849](https://github.com/sborsha/Random-User-API-Performance-Test/assets/97577812/9e1172ee-c058-4ace-bc47-070e1326badb)
+![Screenshot 2024-02-07 100849](https://github.com/Panthodatta96/pictures-of-demo-tests-jmeter/blob/main/loadtest.png)
 
 ## Bottleneck/stress test point:
-![Screenshot 2024-02-07 100920](https://github.com/sborsha/Random-User-API-Performance-Test/assets/97577812/44588405-5594-44c2-9531-e04c4858843e)
+![Screenshot 2024-02-07 100920](https://github.com/Panthodatta96/pictures-of-demo-tests-jmeter/blob/main/stresstest.png)
 
 ## Expected TPS for Load Test File Link:
 https://docs.google.com/spreadsheets/d/19_O5frSGElY8PrLJzjhOhJQRhVLxQEh9JTWJLfEOeMM/edit?usp=sharing
